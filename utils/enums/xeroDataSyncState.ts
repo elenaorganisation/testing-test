@@ -1,0 +1,8 @@
+export const DataSyncState = {
+  INITIAL: "INITIAL",
+  QUEUED: "QUEUED",
+  FETCHING: "FETCHING",
+  COMPLETE: "COMPLETE",
+  FETCH_ERROR: "FETCH_ERROR",
+  UNKNOWN: "UNKNOWN",
+}
